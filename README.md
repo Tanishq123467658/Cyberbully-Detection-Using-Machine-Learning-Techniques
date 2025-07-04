@@ -15,7 +15,6 @@ A Python-based system that identifies cyberbullying content in tweets using clas
 6. [Model & Data](#model--data)  
 7. [Results & Visualization](#results--visualization)  
 8. [Contributing](#contributing)  
-9. [License](#license)
 
 ---
 
@@ -110,13 +109,6 @@ Enhancements are welcome! Consider improving the project by:
 - Adding a frontend or API deployment layer
 
 To contribute, fork the repo, make changes, and submit a pull request!
-
----
-
-## License
-
-This project is licensed under the [MIT License](./LICENSE).  
-Feel free to use, modify, and distribute as you wish! 💡
 
 ---
 

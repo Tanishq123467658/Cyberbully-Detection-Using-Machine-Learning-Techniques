@@ -122,4 +122,4 @@ Feel free to use, modify, and distribute as you wish! 💡
 
 ## 🧠 Contact
 
-For questions or suggestions, reach out to **Tanishq** at **your-email@example.com** or open an issue here on GitHub.
+For questions or suggestions, reach out to **Tanishq** at **battultanishq@gmail.com** or open an issue here on GitHub.
